@@ -11,17 +11,7 @@ el lenguaje que mas domino y en el que mas dominio tengo es **JavaScript** , apr
 Alguna de las tecnologia en las que he trabajado y estoy en constante perfeccionamiento son las siguientes:
 * Stack 
   * FrontEnd
-   * JavaScrip
-   * HTML
-   * CSS
-   * React.js
-   * React Native ( en aprendizaje constante ) 
-  * Backend
-  *Node.js 
-  *sequelize (ORM) 
-  *express (libreria)
-  *Mongose ( ORM ) 
-  *MongoDB
+   
     
   
  
