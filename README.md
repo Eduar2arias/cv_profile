@@ -2,7 +2,7 @@
 
 # Hola ! mi nombres es Eduardo arias
 
-## Quien soy? 
+## **Quien soy?** 
 
 soy programador Full - Stack , realice mis estaudio **Soy Henry**, adicionalmente soy estudiante de 5 semestre de ingenieria de software 
 
@@ -21,6 +21,13 @@ Alguna de las tecnologia en las que he trabajado y estoy en constante perfeccion
   * Mongose ( ORM ) 
   * MongoDB
    
+## **¿ Que hago ? 
+
+Actualmente estoy en busqueda de una oportunidad laboral , ademas de estar en constante aprendizaje , realizando proyecto para asi tener mas experiencia en cada una de mis tecnologias
+
+
+##contactame 
+email: eduar2_arias@hotmail.com
     
   
  
