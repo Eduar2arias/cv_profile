@@ -10,7 +10,7 @@ el lenguaje que mas domino y en el que mas dominio tengo es **JavaScript** , apr
 
 Alguna de las tecnologia en las que he trabajado y estoy en constante perfeccionamiento son las siguientes:
 * Stack 
- *FrontEnd
+  *FrontEnd
   *JavaScrip
   *HTML
   *CSS
